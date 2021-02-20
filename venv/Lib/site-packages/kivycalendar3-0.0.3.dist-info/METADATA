@@ -1,0 +1,20 @@
+Metadata-Version: 2.1
+Name: kivycalendar3
+Version: 0.0.3
+Summary: Calendar & Date picker widgets for Kivy
+Home-page: UNKNOWN
+Author: yumoqing
+Author-email: yumoqing@gmail.com
+License: MIT License
+Keywords: kivy widgets calendar datepicker
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: kivy
+
+UNKNOWN
+
+

@@ -1,0 +1,32 @@
+Metadata-Version: 2.0
+Name: kivy-automate
+Version: 0.1
+Summary: Kivy automation, currently used to automate screenshots on various devices at specific places.
+Home-page: http://github.com/tito/automate
+Author: Mathieu Virbel
+Author-email: mat@meltingrocks.com
+License: MIT
+Keywords: kivy,automate,screenshot,unittest,wait,condition
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: Intended Audience :: Information Technology
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: System Administrators
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: Unix
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Internet
+Classifier: Topic :: System :: Systems Administration
+Classifier: Topic :: System :: Monitoring
+
+UNKNOWN
+
+

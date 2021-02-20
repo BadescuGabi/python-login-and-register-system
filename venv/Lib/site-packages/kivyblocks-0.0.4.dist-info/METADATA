@@ -1,0 +1,21 @@
+Metadata-Version: 2.1
+Name: kivyblocks
+Version: 0.0.4
+Summary: kivy blocks is a tool to build kivy ui with json format uidesc files
+Home-page: UNKNOWN
+Author: yumoqing
+Author-email: yumoqing@icloud.com
+License: UNKNOWN
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Requires-Dist: kivy
+Requires-Dist: appPublic
+Requires-Dist: kivycalendar3
+Requires-Dist: sqlor
+
+UNKNOWN
+
+
